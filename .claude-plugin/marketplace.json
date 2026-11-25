@@ -1,0 +1,13 @@
+{
+  "name": "kobriz-local",
+  "owner": {
+    "name": "Kobriz ADLC"
+  },
+  "plugins": [
+    {
+      "name": "kobriz",
+      "source": "./kobriz",
+      "description": "Agentic Development Life Cycle orchestrator — turns Granola meetings into tracker tasks, plans work from ClickUp or another MCP/REST tracker, gates every plan on human approval, runs tasks in isolated git worktrees via specialized agents, validates, and merges through a controlled process."
+    }
+  ]
+}

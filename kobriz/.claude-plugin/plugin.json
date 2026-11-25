@@ -1,0 +1,21 @@
+{
+  "name": "kobriz",
+  "displayName": "Kobriz ADLC",
+  "version": "0.2.0",
+  "description": "Agentic Development Life Cycle orchestrator: turns Granola meetings into tracker tasks, plans work from your existing task system (ClickUp, other MCP servers, or REST), requires human approval of every plan, then runs each task in an isolated git worktree with specialized developer agents, validates, merges through a controlled process, and syncs status back.",
+  "author": {
+    "name": "Kobriz ADLC"
+  },
+  "keywords": [
+    "adlc",
+    "approval",
+    "clickup",
+    "code-review",
+    "git-worktree",
+    "granola",
+    "multi-agent",
+    "orchestration",
+    "task-automation"
+  ],
+  "license": "MIT"
+}
